@@ -20,7 +20,7 @@ export const customMeta: { [key: string]: PageMeta } = {
   },
   '/farms': {
     title: 'Farms | PancakeSwap',
-    description: '',
+    description: 'farmy boi',
     image: 'https://pancakeswap.finance/images/ifo-bunny.png',
   },
   '/lottery': {
